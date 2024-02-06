@@ -1,0 +1,190 @@
+@media only screen and (max-width: 425px) {
+    .Startwriting {
+      font-size: 24px !important;
+      line-height: 34px !important;
+    }  
+
+    .Typesettingindustry {
+        font-size: 10px !important;
+        line-height: 15px !important; /* 160% */
+      } 
+
+      .brother{
+        padding: 0 71px;
+      }
+
+      .MADDDD {
+        height: 400px !important;
+    } 
+
+    .frsit-initiative{
+      font-size: 17px !important;
+      line-height: 26px !important;
+    } 
+    .adjust {
+      padding: 33px 42px !important;
+  }
+  
+     .Dollar{
+      font-size: 25px !important;
+     }   
+
+
+     .Numbers{
+      font-size: 48px !important;
+     }  
+
+
+     .Month{
+      font-size: 24px !important;
+     } 
+
+      .UpdateNow button {
+        font-size: 16px;
+        padding: 4px 31px;
+    }  
+
+} 
+
+
+@media only screen and (max-width: 320px) {
+
+    .brother{
+      padding: 0 34px;
+    } 
+    
+    .MADDDD {
+      height: 400px !important;
+  } 
+
+  .frsit-initiative{
+    font-size: 17px !important;
+    line-height: 26px !important;
+  } 
+  
+  .Startwriting {
+    font-size: 20px !important;
+    line-height: 28px !important;
+  }  
+
+  .Typesettingindustry {
+    font-size: 9px !important;
+    line-height: 15px !important;
+    margin: 0 -18px !important;
+}
+ 
+} 
+
+
+
+  @media only screen and (max-width: 1024px){
+  .adjust {
+      padding: 39px 10px;
+  }
+  }
+  @media only screen and (max-width: 768px){
+    .adjust {
+        padding: 33px 74px;
+    } 
+
+    .SignUpNow{
+        margin-top: 8px !important;
+        padding: 13px 32px !important;
+      } 
+
+      .frsit-initiative {
+        font-size: 23px !important;
+        line-height: 38px !important;
+    } 
+    }  
+
+    @media only screen and (max-width: 425px){
+      .adjust {
+          padding: 33px 25px;
+      } 
+
+      .UpdateNow button {
+        font-size: 16px;
+        padding: 4px 31px;
+    }  
+
+
+ }  
+
+
+ @media (min-width: 430px) and (max-width: 768px) {
+  .MADDDD{
+    height: 270px !important;
+  }
+ }
+
+
+
+ @media (min-width: 320px) and (max-width: 425px) {
+  .SignUpNow {
+    margin-top: -36px !important;
+    padding: 7px 11px !important;
+
+}
+
+.frsit-initiative {
+  font-size: 19px !important;
+  line-height: 28px !important;
+} 
+
+
+
+.FrequentlyAsked {
+  font-size: 30px !important;
+  line-height: 55px !important;
+   
+} 
+.Text-Area {
+  font-size: 9px !important;
+  line-height: 14px !important;
+  margin-top: 25px !important;
+  margin: 0px 6px;
+}
+.Plus {
+
+  margin-top: 11px !important;
+  margin-bottom: 11px !important;
+
+} 
+.How-does {
+ 
+  margin: 6px 11px !important;
+}
+  
+ } 
+
+ @media (min-width: 320px) and (max-width: 425px) {
+ .peoplefrsit {
+  margin: 0 10px; 
+} 
+.perfectjob {
+  font-size: 9px !important;
+  line-height: 20px !important;
+  padding: 0 5px !important;
+  margin-top: 13px !important;
+}  
+
+
+.Plus {
+  padding: 0 17px !important;
+} 
+
+.money-back {
+  font-size: 11px !important;
+ }
+ 
+ .Quia {
+  font-size: 9px !important;
+} 
+.Tictac{
+  width: 21px !important;
+}
+ }
+
+
+

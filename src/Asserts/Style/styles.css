@@ -1,0 +1,59 @@
+.Height{
+    height: 100vh;
+}
+
+.signin-control-parent {
+  position: relative;
+}
+
+.signin-control-parent::placeholder {
+ font-size: 12px;
+}
+
+.left-line,
+.right-line {
+  display: inline-block;
+  height: 1px;
+  width: 100%;
+  background-color:  #31A6F4;
+  margin: 0 2px; 
+  text-wrap: nowrap;
+
+  
+}  
+
+
+.btn2{
+    padding: 0;
+    text-decoration: none;
+    font-size: small;
+    text-wrap: nowrap;
+    font-weight: bolder;
+
+} 
+.btn3{
+    font-size: x-small;
+    text-decoration: none;
+    padding: 6px;
+
+
+
+} 
+.boxx{
+    border: 2px solid #F2F2F2; 
+    border-radius: 8px;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.hell{
+    text-decoration: none;
+}
+.Signin{
+   font-family: Poppins;
+   font-weight: bolder;
+   font-size: 25px;
+}
+.txt{
+    font-weight: bold;
+}

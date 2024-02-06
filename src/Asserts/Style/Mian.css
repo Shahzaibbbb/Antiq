@@ -1,0 +1,181 @@
+.Startwriting {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 133.333% */
+} 
+
+
+.Typesettingindustry {
+    color: #87869a;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+    
+}
+
+.navbar-nav .nav-linkk {
+  color: black !important;
+  text-decoration: none;
+}
+
+.Growth {
+  color: #000;
+  text-align: center;
+
+  /* text-3xl/leading-9/font-semibold */
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px; /* 120% */
+  align-self: stretch;
+}
+
+.Dollar {
+  color: #000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 111.111% */
+}
+
+.Numbers {
+  color: #000;
+  font-family: Poppins;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 60px; /* 100% */
+  letter-spacing: -1.5px;
+}
+
+.Month {
+  color: var(--gray-500, #6b7280);
+  font-family: Roboto;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 48px;
+  margin: 0 3px;
+}
+
+.Card-Header {
+  background: var(--white, #fff);
+  padding: 48px 24px 40px 24px;
+}
+.Mid-sec {
+  background: var(--gray-50, #f9fafb);
+}
+.money-back {
+  font-family: Roboto;
+  color: #6f6f6f;
+  font-size: 14px;
+  font-style: medium;
+  font-weight: 400;
+  line-height: 18px; /* 112.5% */
+}
+
+.Quia {
+  font-size: 11px; 
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.UpdateNow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  border-radius: 8px;
+  background: #CA3FD6;
+  color: #FFFFFF;
+
+/* /shadow/md */
+box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.06), 0px 4px 6px -1px rgba(0, 0, 0, 0.10);
+} 
+.UpdateNow button {
+  font-size: 20px;
+  padding: 5px 46px; 
+  color: #FFFFFF;
+  ;
+}
+
+.Cash1 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px; /* 100% */
+}
+
+.Cash2 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px; /* 100% */
+}
+.absolute-button {
+position: absolute;
+top: -16px; 
+right: 10px; 
+border-radius: 5px;
+background: #DEC7EC;
+width: 99.5px;
+height: 34.706px;
+flex-shrink: 0; 
+}
+.BestSeller{
+color: #9638C5;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+} 
+
+
+.ano {
+  height: 80px;
+  margin: 0px 0px
+} 
+
+.nav-butt{
+  padding: 20px;
+  text-align: end;
+  margin-top: 8px;
+  
+} 
+.Recbox {
+  position: absolute;
+  top: 35px;
+  right: 0px;
+}
+
+.upgrade {
+  position: absolute;
+  top: 30px;
+  right: 39px;
+}
+
+.card-shadow {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  border-color: #9638C5;
+
+}
+.card-shadow2 {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}

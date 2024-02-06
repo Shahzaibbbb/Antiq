@@ -1,0 +1,404 @@
+/* --------------------------------------------------------              1          ---------------------------------------------------------------------- */
+
+
+.bg{
+    background-image: url("../../Asserts/Images/Hero2.png");  
+    width:100%;
+    background-size: cover;
+    background-position: center;
+      
+ 
+}
+.anii {
+  height: 80px;
+  margin: 0px 15px;
+}
+
+
+
+.Aboutus{
+    color: #D9D9D9;
+
+}
+
+.Mission h1{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: center;
+
+} 
+/* .story h1{
+    color: red;
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}  */
+
+
+.Aniquest{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 100px;
+    
+
+} 
+
+
+.ppl {
+    width: 60%; 
+    max-width: 601px; 
+    height: auto; 
+}
+
+ 
+.people {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 143vh;
+  height: 450px;
+  margin: 0 auto;
+  margin-top: 39px;
+  border-radius: 27px;
+}
+
+/* --------------------------------------------------------              2         ---------------------------------------------------------------------- */
+
+.Wind {
+    border-radius: 20px;
+    background: #EFEBF8;
+    border: none; 
+    margin-top: 25px;
+    width: 100%;
+    height: auto;
+    padding:20px;
+    margin-top: 55px;
+
+}
+ 
+.card:hover {
+  transform: none;
+}
+
+.Starts{
+font-size: 45px;
+font-weight: 800;
+margin-top: 30px;
+margin-left: 26px;
+
+}
+.Putting{
+font-size: 20px;
+margin-top: 30px;
+margin-left: 26px;
+
+}
+
+.Techlogy{
+    width: 100%;
+    margin-top: 219px;
+} 
+
+.Sarah{
+    margin-top: 5px;
+    font-weight: bold;
+} 
+
+/* --------------------------------------------------------              3         ---------------------------------------------------------------------- */
+
+
+.Values{
+    margin-top: 60px;
+    font-weight: 500;
+    color: #CA3FD6;
+
+}
+.Company {
+    color: #0D0C54;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 10px 0px;
+    line-height: 30.5px;
+  }
+
+  .Pride{ 
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px 15px;
+}
+  
+
+  .C-Bring{
+    width: 29rem;
+    height: 40rem;
+    background: #EFEBF8;
+    border-radius: 0;
+    border: none;
+
+  } 
+  .bhola{
+    position: absolute;
+    bottom: 80px;
+  }
+
+  .cold{
+  padding: 15px;
+  border-radius: none;
+  height: 100%; 
+  border-radius: 25px;
+  border: none;
+  }
+  /* .CTT {
+    left: 48px;
+    font-size: 12px;
+    position: relative;
+    bottom: 28px;
+  } */
+  .bhola2{
+    position: relative;
+  }
+  .WE-Do{
+    margin-top: 60px;
+    font-weight: 500;
+    color: #CA3FD6;
+    font-size: 6rem;
+    font-weight: 800;
+  } 
+  .Content{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #87869A;
+  } 
+
+  .C-Bringg{
+    width: 33rem;
+    height: 55rem;
+    background: #EFEBF8;
+    border: none;
+  }
+  .Free-Trail{
+    
+    height: 3rem; 
+    margin-top: 15px;
+    margin-bottom: 15px;
+  } 
+  
+
+.Valuess{
+    margin-top: 20px;
+    font-weight: 500;
+    color: #CA3FD6;
+}
+.Companyy{
+    color: black;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+.dolor{
+    margin-top: 20px; 
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.bx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #CA3FD6;
+    width: 30px;
+    height: 30px;
+    padding: 25px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 18px;
+    border: none;
+}
+
+.open5 {
+    width: 30px; 
+}
+
+.cold2{
+    padding: 15px;
+    border-radius: none;
+    border-radius: 25px;
+    border: none;
+    margin: 0px 69px;
+    background: #F7F8F9;
+    }
+
+    .nameOverlayyy {
+        position: absolute;
+        top: 97px;
+        left: 57px;
+        color: black;
+        font-size: 10px;
+        font-size: small;
+        margin-top: 28px;
+      } 
+
+      .nameOverlaa {
+        position: absolute;
+        top: 37px;
+        left: 82px;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+      }
+
+
+
+      .nameOverlayyyy {
+        position: absolute; 
+        top: 165px;
+        left: 62px;
+        color: black;
+        font-size: 10px;
+        font-size: small;
+        margin-top: 28px;
+      }
+    
+    .bordered-image {
+        width: 100%; 
+        border-radius: 8px;
+    }
+    
+   
+      .Joo {
+        background: #2F1444;
+        margin-top: 120px;
+        height: 118px;
+        box-sizing: border-box; 
+    } 
+
+
+    .Joo2 {
+        background: linear-gradient(248.61deg, rgba(255, 34, 157, 0.5) 19.39%, rgba(39, 147, 195, 0.5) 47.41%, rgba(136, 46, 200, 0.5) 96.96%, rgba(129, 80, 244, 0.5) 149.59%, rgba(150, 56, 197, 0.5) 184.14%);
+        height: 221px;
+        box-sizing: border-box; 
+        position: relative; 
+    }
+    
+    .MADDD {
+      background: #181024;
+      height: 178px;
+      display: flex;
+      align-items: flex-end;
+      padding-bottom: 15px;
+      margin-top: 182px;
+  }
+
+ 
+  
+
+      .WE-Do span:nth-child(1) {
+        color: #000000
+      }
+      
+      .WE-Do span:nth-child(2) {
+        color:#CA3FD6
+      }
+      
+      .WE-Do span:nth-child(3) {
+      
+        color:#0D0C54
+      }
+
+      .btn20 {
+      
+        border-radius: 8px;
+        font-size: medium;
+        border-radius: 8px; 
+        font-size: medium;
+        border: 1px solid #4e3560;
+      }
+
+      .btn21 {
+        background-color: white;  
+        border-radius: 8px; 
+        font-size: medium;
+        border: 1px solid #4e3560;
+      }
+
+
+      .box3 { 
+        background: #EDEAF6;
+        width: 40px; /* Adjust this value to change the size */
+        height: 40px; /* Adjust this value to change the size */
+        padding: 6px;
+        border-radius: 0%;
+        overflow: hidden;
+        margin-bottom: 18px;
+    }
+    .ahan{
+       background: #CA3FD6;
+      ;
+    }
+    
+    .Open6{
+      width: 93%;
+      height: 93%;
+      object-fit: cover;
+      align-items: center;
+      margin-bottom: 6px;
+    
+    }
+
+
+  .CTTT{
+    font-size: 12px;
+  }
+
+ /* Default style for all screens */
+.bhoom {
+  font-size: 15px;
+}
+
+/* Media query for screens smaller than 600 pixels */
+@media only screen and (max-width: 768px) {
+  .bhoom {
+      font-size: 15px;
+  }
+} 
+
+.melo{
+  margin: 32px 0px
+}

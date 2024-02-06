@@ -1,0 +1,326 @@
+@media (max-width: 1024px) {
+  .textarea {
+    width: 57rem;
+    height: 28rem;
+  }
+  .Max {
+    position: absolute;
+    top: 170px;
+    right: 55px;
+    width: 421px;
+  }
+  .box10 {
+    right: 145px;
+  }
+  .box20 {
+    right: 80px;
+  }
+
+  .absolutee-button {
+    right: 520px;
+  }
+  .form-control {
+    display: block;
+    width: 98%;
+  }
+
+  .custom-accordion {
+    width: 375px;
+    position: absolute;
+    top: -74px !important;
+    left: -25px !important;
+    transform: translate3d(23.5px, 73px, 0px);
+    border-radius: 11px;
+    border: none;
+  }
+  .Blogcard {
+    width: 58rem;
+    height: 41rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #9638c5;
+    background: #fff;
+    box-shadow: 0px 0px 50px 0px rgba(161, 161, 161, 0.25);
+    margin: -10px 20px;
+  }
+}
+
+@media (max-width: 786px) {
+    .custom-accordion {
+        width: 375px;
+        position: absolute;
+        top: -74px !important;
+        left: -25px !important;
+        transform: translate3d(23.5px, 73px, 0px);
+        border-radius: 11px;
+        border: none;
+    }
+  .Max {
+    position: absolute;
+    top: 131px;
+    right: 170px;
+    width: 387px;
+}
+
+  .bigdot {
+    position: absolute;
+    bottom: 59px;
+    right: 151px;
+  }
+  .Whatyouneed {
+    margin: 0px 25px;
+  }
+  .custom-form-control {
+    position: absolute;
+    top: 262px;
+    left: 112px;
+    width: 80%;
+}
+  .All-Button {
+    border-radius: 8px;
+    background: #fff;
+    border: none;
+    margin: 132px 8px;
+    padding: 10px 20px;
+} 
+.Blogcard {
+    width: 44rem;
+    height: 41rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #9638c5;
+    background: #fff;
+    box-shadow: 0px 0px 50px 0px rgba(161, 161, 161, 0.25);
+    margin: -217px 9px;
+} 
+.mj {
+    margin-top: 27px;
+} 
+.absolutee-button {
+    right: 37px;
+    top:290px;
+  } 
+  .mid2 {
+    margin-bottom: -120px;
+    background: purple;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 230px;
+    padding-bottom: 230px;
+    margin-top: 287px;
+} 
+
+.MADDD {
+    background: #181024;
+    height: 267px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    margin-top: 163px;
+}
+}
+
+@media (max-width: 425px) {
+  
+    .Max {
+        position: absolute;
+        top: 131px;
+        right: 58px;
+        width: 293px;
+    }
+    .custom-form-control {
+        position: absolute;
+        top: 262px;
+        left: 81px;
+        width: 76%; 
+    } 
+    .absolutee-button {
+        right: 18px;
+        top: 290px;
+    } 
+
+    .Blogcard {
+        width: 26rem;
+        height: 37rem;
+        flex-shrink: 0;
+        border-radius: 25px;
+        border: 1px solid #9638c5;
+        background: #fff;
+        box-shadow: 0px 0px 50px 0px rgba(161, 161, 161, 0.25);
+        margin: -217px 9px;
+    } 
+
+    .box10 {
+        position: absolute;
+        background: white;
+        width: 40px;
+        height: 40px;
+        padding: 8px;
+        border-radius: 46%;
+        overflow: hidden;
+        margin-bottom: 18px;
+        right: 76px !important;
+        top: 529px !important;
+        border-radius: 25px;
+        border: 1px solid #9638c5;
+        background: #fff;
+        border: none;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    } 
+
+    .box20 {
+        position: absolute;
+        background: #9638c5;
+        width: 40px;
+        height: 40px;
+        padding: 8px;
+        border-radius: 46%;
+        overflow: hidden;
+        margin-bottom: 18px;
+        right: 22px !important;
+        top: 529px !important;
+        border-radius: 25px;
+        border: 1px solid #9638c5;
+        background: #9638c5;
+        border: none;
+    } 
+
+    .Storiess {
+        font-weight: 700;
+        font-size: 30px;
+        color: white;
+        margin-bottom: 50px;
+        margin-top: -41px;
+    }
+
+
+    .mid2 {
+        margin-bottom: -346px;
+        background: purple;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        padding-top: 63px;
+        padding-bottom: 46px;
+        margin-top: 290px;
+    }
+
+    .MADDD {
+        background: #181024;
+        height: 365px;
+        display: flex;
+        align-items: flex-end;
+        padding-bottom: 14px;
+        margin-top: 387px;
+    } 
+
+    .custom-accordion {
+        width: 230px;
+        position: absolute;
+        top: -74px !important;
+        left: -25px !important;
+        transform: translate3d(23.5px, 73px, 0px);
+        border-radius: 11px;
+        border: none;
+    } 
+
+    .accordion-button:not(.collapsed) {
+        color: var(--bs-accordion-active-color);
+        background-color: #ca3fd6;
+        border-radius: 11px;
+        box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+        font-family: Poppins;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        color: #fff;
+        border-radius: none;
+        border: none;
+    } 
+
+    .Spellcheck {
+        width: 13px;
+        height: 13px;
+        flex-shrink: 0;
+        /* margin-left: 277px; */
+        /* margin-bottom: 7px; */
+        margin: 4px 136px;
+    } 
+
+    .accordion-button.collapsed {
+        color: #898989;
+        font-size: small;
+    } 
+
+.Nella {
+    font-size: 9px;
+    margin: -25px 0px;
+}
+.Nella2 {
+    margin: 9px 13px;
+    font-size: 9px;
+}
+}  
+
+
+@media (max-width: 375px) {
+.absolutee-button {
+    right: -4px;
+    top: 290px;
+}
+
+.Max {
+    position: absolute;
+    top: 131px;
+    right: 55px;
+    width: 260px;
+} 
+
+.Blogcard {
+    width: 372px;
+    height: 37rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #9638c5;
+    background: #fff;
+    box-shadow: 0px 0px 50px 0px rgba(161, 161, 161, 0.25);
+    margin: -217px 9px;
+}
+}
+
+
+@media (max-width: 320px) {
+    .absolutee-button {
+        right: -6px;
+        top: 290px;
+    }
+    
+    .Max {
+        position: absolute;
+        top: 131px;
+        right: 16px;
+        width: 260px;
+    }
+    
+    
+    .custom-form-control::placeholder {
+        color: #888; /* Change the color as needed */
+        font-size: 9px; /* Add any other styles you want */
+      }  
+
+      .Storiess {
+        font-weight: 700;
+        font-size: 19px;
+        color: white;
+        margin-bottom: 50px;
+        margin-top: -41px;
+    } 
+
+    .Dymainic-Accordion {
+      position: absolute;
+      left: 1px;
+      width: 237px;
+      top: 311px;
+  }
+      
+    }

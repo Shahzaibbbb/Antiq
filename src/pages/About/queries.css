@@ -1,0 +1,495 @@
+@media only screen and (max-width: 320px) {
+  .Mission {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .Aniquest {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .C-Bring {
+    height: 15rem;
+  }
+  .Starts {
+    font-size: 16px;
+    margin-left: 7px;
+  }
+  .Putting {
+    font-size: 9px;
+    margin-top: 19px;
+    margin-left: 7px;
+  }
+  .WE-Do {
+    font-size: 2rem;
+  }
+  .bhola {
+    position: static;
+    bottom: auto;
+  }
+
+  .Companyy {
+    font-size: 15px;
+  }
+  .Techlogy {
+    margin-top: 7px;
+    width: 7px;
+  }
+
+  .Content {
+    font-size: 12px;
+  }
+
+  .bhola {
+    bottom: 36px;
+  } 
+
+}
+
+@media only screen and (max-width: 768px) {
+  .bhola {
+    position: static; /* or any other style you want for smaller screens */
+    bottom: auto;
+  }
+
+  .C-Bring {
+    height: 11rem;
+  }
+
+  .Techlogy {
+    margin-top: 1px;
+    width: 198px;
+  } 
+  .Mission{
+    font-size: 34px;
+    line-height: 46px;
+  } 
+  .Aniquest{
+    font-size: 13px;
+    line-height: 25px;
+  } 
+  .WE-Do {
+    font-size: 4rem;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .Mission {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .Aniquest {
+    font-size: 11px;
+    line-height: 14px;
+    margin: 0 10px;
+  }
+
+  .C-Bring {
+    height: 11rem;
+  }
+  .Starts {
+    font-size: 16px;
+  }
+  .Putting {
+    font-size: 9px;
+    margin-top: 19px;
+  }
+  .WE-Do {
+    font-size: 2rem;
+  }
+  .bhola {
+    position: static; /* or any other style you want for smaller screens */
+    bottom: auto;
+  }
+  .dolor {
+    font-size: 14px;
+  }
+  .Companyy {
+    font-size: 15px;
+    
+  }   
+
+  .short{
+    width: 149px;
+    margin-right: 85px;
+  }
+
+
+  
+  .MADDD {
+    background: #181024;
+    height: 420px;
+    display: flex; 
+    align-items: flex-end;
+    padding-bottom: 15px;
+  }
+
+
+
+  .Company {
+    font-size: 17px;
+    line-height: 21.5px;
+  }
+
+  .Techlogy {
+      margin-top: 55px;
+      width: 132px !important;
+  }
+
+  .Pride {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    margin: 39px 4px;
+}
+}
+
+@media only screen and (max-width: 320px) {
+  .C-Bringg {
+    height: 72rem !important; 
+  } 
+  .Pride {
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    text-align: center;
+    margin: 21px 4px;
+}
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+  .C-Bringg {
+    height: 71rem;
+  } 
+  .Pride{
+    margin: 18px;
+  }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+  .C-Bringg {
+    height: 75rem;
+  }
+}
+
+/*             Free and Program        */
+
+.Freee {
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 50px;
+  color: black;
+}
+.Programm {
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 14px !important;
+}
+@media only screen and (max-width: 1024px) {
+  .Freee {
+    font-size: 40px;
+    margin-bottom: 8px !important;
+  }
+
+  .Programm {
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: 14px !important;
+  } 
+
+}
+
+@media only screen and (max-width: 768px) {
+  .Freee {
+    font-size: 28px;
+    margin-bottom: 4px !important;
+    line-height: 23px;
+    margin-top: 5px;
+  }
+
+  .Programm {
+    font-size: 9px;
+    font-weight: 400;
+    margin-top: 14px !important;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .Freee {
+    font-size: 25px;
+    line-height: 31px;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+}
+  .Programm {
+    font-size: 9px;
+    margin-right: 0px !important;
+    height: 62px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .Freee {
+    font-size: 18px!important;
+    line-height: 14px;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+  }
+  .Programm {
+    font-size: 11px !important;
+    margin-right: 0px !important;
+    height: 68px;
+} 
+.dolor {
+  font-size: 10px;
+}
+}
+
+@media only screen and (max-width: 320px) {
+  .Freee {
+    font-size: 12px;
+    line-height: 19px;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+  }
+  .Programm {
+    font-size: 8px;
+    margin-right: 6px !important;
+  }
+}
+
+.home4 {
+  border: none;
+  border-radius: 20px;
+  padding: 72px 12px;
+  background: linear-gradient(
+    211.28deg,
+    #e080cc 2.47%,
+    #bd88dd 21.03%,
+    #ffffff 56.91%
+  );
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%; 
+  padding: 80px;
+}
+
+
+@media screen and (min-width: 375px) {
+  .home4 {
+
+    height: 16px 127px;
+    top: 67px;
+}
+} 
+
+@media screen and (min-width: 320px) {
+  .home4 {
+
+    height: 16px 127px;
+    top: 67px;
+    padding: 10px;
+
+}
+}
+
+
+@media screen and (min-width: 414px) {
+  .home4 {
+
+    height: 16px 127px;
+    top: 67px;
+   
+} 
+}
+
+@media screen and (min-width: 768px) {
+  .home4 {
+   
+    top: 104px;
+    padding: 50px;
+    height: 16px 127px;
+}
+}
+
+@media (max-width: 768px) {
+  .btn21 {
+    font-size: 8px;
+  }
+  .btn20 {
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .bhola {
+    bottom: 36px;
+  }
+}
+
+@media (max-width: 320px) {
+  .bhola {
+    bottom: 36px;
+  }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+  .Content {
+    font-size: 13px;
+  }
+}
+
+
+
+.CTT {
+  left: 52px;
+  font-size: 12px;
+  position: relative;
+  bottom: 28px;
+}
+
+/* Media Query for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+  .CTT {
+      left: 8%;
+      font-size: 10px;
+      bottom: 34px;
+  }
+}
+
+/* Media Query for screens with a maximum width of 480px */
+@media (max-width: 480px) {
+  .CTT {
+      left: 2%;
+      font-size: 8px;
+      bottom: 10px;
+  }
+}
+
+/* Media Query for screens with a maximum width of 320px */
+@media (max-width: 320px) {
+  .CTT {
+    left: 43px;
+    font-size: 9px;
+    bottom: 30px;
+    margin-right: 57px;
+}
+}
+
+@media (max-width: 425px) {
+  .CTT {
+    left: 46px;
+    font-size: 9px;
+    bottom: 26px;
+    margin-right: 39px;
+}
+}
+
+
+.people {
+
+
+  @media (max-width: 425px) {
+    height: 200px;
+    border-radius: 10px
+  }
+
+}
+
+.ppl {
+
+
+  @media (max-width: 425px) {
+    width: 240px;
+  }
+  
+}
+
+.MADDD {
+
+
+  @media (max-width: 425px) {
+    margin-top: -71px;
+  }
+  
+}
+
+@media (max-width: 1024px) {
+  .cold2 {
+   margin: 0 52px;
+}
+}
+@media (max-width: 768px) {
+  .cold2 {
+   margin: 0 130px;
+}
+}
+@media (max-width: 425px) {
+  .cold2 {
+    margin: 0 -23px;
+    margin-bottom: -55px
+}
+}
+@media (max-width: 320px) {
+  .cold2 {
+    margin: -27px -20px;
+}
+}
+
+
+
+@media (max-width: 425px) {
+.nameOverlaa {
+  position: absolute;
+  top: 23px;
+  left: 63px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold; 
+
+}  
+
+.cold {
+  padding: 0px;
+  border-radius: none;
+  height: 100%;
+  border-radius: 12px;
+  border: none;
+} 
+.melo {
+  margin: 12px 0px;
+} 
+.nameOverlayyyy {
+  top: 146px;
+ 
+}
+
+} 
+
+@media (max-width: 320px) {
+ 
+  .melo {
+    margin: 22px 0px;
+  } 
+  .nameOverlayyyy {
+    top: 156px;
+   
+  }
+  
+  }
+
+  @media (max-width: 768px) {
+ 
+    .melo {
+      margin: 22px 0px;
+    } 
+    .nameOverlayyyy {
+      top: 156px;
+     
+    }
+    
+    }
+  
+  
